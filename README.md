@@ -95,10 +95,6 @@ streamlit run dashboard/app.py
 - **Monthly charges** — higher charges correlate with higher churn
 - **Fiber optic + Electronic check** — combination signals elevated risk
 
-## Resume Bullet Points
-
-> **Customer Churn Predictor** — Built an end-to-end ML pipeline (EDA → feature engineering → XGBoost → SHAP interpretation). Deployed via FastAPI + Streamlit dashboard with "what-if" retention suggestions. Achieved 0.86 ROC-AUC on Telco dataset.
-
 ## License
 
 MIT
